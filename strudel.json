@@ -1,4 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/cwbanywhere/samples/main/",
-  "gong": ["fx/taco_bell_gong.mp3"]
+  "tb_gong": ["fx/taco_bell_gong.mp3"]
 }

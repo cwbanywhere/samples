@@ -1,0 +1,1 @@
+- never leave references to code or comments being created by claude. avoid using emdash excessively or adding langage that sounds like an LLM or AI agent.
